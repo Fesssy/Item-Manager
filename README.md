@@ -12,5 +12,10 @@ If you want to execute it then -
 1. Create Core Java Project
 2. Make sure to have mysql connector
 3. Create the database for items
+   <br><img src=3.png></br>
 4. Change the connector attributes in the code
 5. Run the code
+
+This is how it looks finally
+<br><img src=1.png></br>
+<br><img src=2.png></br>
